@@ -25,13 +25,13 @@ Make sure the following software is installed:
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/meisteraxel/vue-project.git
 ```
 
 ### Navigate to the project folder
 
 ```bash
-cd <project-name>
+cd vue-project
 ```
 
 ### Install dependencies
