@@ -1,4 +1,3 @@
-````markdown
 # Vue Starter Template
 
 A modern Vue starter template with the most commonly used tools already configured.
@@ -13,8 +12,6 @@ A modern Vue starter template with the most commonly used tools already configur
 
 This template provides a clean starting point so you can focus on building your application instead of setting up the project.
 
----
-
 ## Prerequisites
 
 Make sure the following software is installed:
@@ -22,8 +19,6 @@ Make sure the following software is installed:
 - Node.js (latest LTS version recommended)
 - npm (included with Node.js)
 - Visual Studio Code (recommended)
-
----
 
 ## Getting Started
 
@@ -53,8 +48,6 @@ npm run dev
 
 Open the URL displayed in your terminal (usually `http://localhost:5173`) in your browser.
 
----
-
 ## Available Scripts
 
 Start the development server:
@@ -75,20 +68,15 @@ Preview the production build locally:
 npm run preview
 ```
 
----
-
 ## Project Structure
 
 ```text
 src/
-├── assets/         # Images, fonts, and other static assets
-├── components/     # Reusable Vue components
-├── App.vue         # Root component
-├── main.js         # Application entry point
-└── style.css       # Tailwind CSS import
+├── assets/
+├── components/
+├── App.vue
+├── main.js
+└── style.css
 ```
 
----
-
 ## Happy Coding! 🚀
-````
