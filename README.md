@@ -72,8 +72,8 @@ npm run preview
 
 ```text
 src/
-├── assets/
-├── components/
+├── assets/ (Create yourself)
+├── components/ (Create yourself)
 ├── App.vue
 ├── main.js
 └── style.css
